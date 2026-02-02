@@ -27,3 +27,5 @@ docker-compose up -d
 4. Open the Streamlit frontend at [http://localhost:8501](http://localhost:8501).  
    The backend will be running at [http://localhost:8000](http://localhost:8000).
 
+
+Based on template from: (https://github.com/vikramdse/langchain-pdf-rag)
